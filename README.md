@@ -1,1 +1,1 @@
-# Yelp-Food-Recommendation-Sytem
+# Yelp Food Recommendation System
